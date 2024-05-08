@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Branding',
-                to: '/docs/intro',
+                to: '',
               },
             ],
           },
